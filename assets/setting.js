@@ -36,7 +36,7 @@ var colors = [
 ];
 
 colors = ['green']
-var i = Math.floor( Math.random() * (colors.length - 0) + 0 );
+var i = '2';
 var chooseColor = colors[i].toString();
 
 
