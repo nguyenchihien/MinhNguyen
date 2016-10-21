@@ -1,14 +1,14 @@
 // ============= HOME ==============
 var Page = {
     //-- de trong "" de giu nguyen default text
-    logoText: "Lý Hồng Lang ",
+    logoText: "Minh Nguyễn ",
     subHeading: "Website để thể hiện. <strong>Landing page</strong> để thu hút khách hàng",
     mainHeading: "Tôi muốn đem <b>BHNT</b> đến với <b>mọi người</b>",
     CTA: "Tôi muốn có ngay Landing Page",
     brief: "Cơ hội nhận discount or Free Landing Page. Chỉ cần theo dõi các chương trình cộng đồng của chúng tôi",
 
     // ============= VARS ==============
-    url : "http://lyhonglang.chinhlatoi.top/", //-- co slash cuoi /
+    url : "http://minhnguyen.chinhlatoi.top/", //-- co slash cuoi /
     mainkeyWord : "minh nguyen",
     longkeyWords : ["BHNT", "bảo hiểm nhân th5"],
     facebookAppId : "303370230021409", //-- your appID
@@ -35,7 +35,7 @@ var colors = [
     "brown", "grey", "blue-grey"      // 16 17 18 19
 ];
 
-colors = ['blue']
+colors = ['green']
 var i = Math.floor( Math.random() * (colors.length - 0) + 0 );
 var chooseColor = colors[i].toString();
 
