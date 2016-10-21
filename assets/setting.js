@@ -3,7 +3,7 @@ var Page = {
     //-- de trong "" de giu nguyen default text
     logoText: "Minh Nguyễn ",
     subHeading: "Website để thể hiện. <strong>Landing page</strong> để thu hút khách hàng",
-    mainHeading: "Tôi muốn đem <b>BHNT</b> đến với <b>mọi người</b>",
+    mainHeading: "Nguồn khách hàng tiềm năng và ứng viên tiềm năng bảo hiểm nhân thọ",
     CTA: "Tôi muốn có ngay Landing Page",
     brief: "Cơ hội nhận discount or Free Landing Page. Chỉ cần theo dõi các chương trình cộng đồng của chúng tôi",
 
