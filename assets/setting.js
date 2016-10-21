@@ -45,7 +45,7 @@ var Person = {
     //-- de trong "" de giu nguyen default text
     logoText: "Minh Nguyễn",
     fullname: "<strong>Minh Nguyễn</strong>.",
-    slogan: "Insuarance Professional.",
+    slogan: "Insurance Professional.",
     sex: '<i class="fa fa-male"></i>', //-- male, female
     phone: 'tel:0938800307',
     // message: "Tôi đã sẵn sàng, còn bạn thì sao?", //-- thong diep chinh hien nay!
